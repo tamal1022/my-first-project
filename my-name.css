@@ -1,0 +1,9 @@
+h1 {
+    text-align: center;
+    text-transform: capitalize;
+}
+
+p {
+    text-shadow: 3px 6px 5px blue,
+        4px 5px 6px red;
+}
